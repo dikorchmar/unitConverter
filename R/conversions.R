@@ -1,4 +1,3 @@
-# Convert Meters to Kilometers
 #' Convert Meters to Kilometers
 #'
 #' This function converts a given value in meters to kilometers.
@@ -12,7 +11,6 @@ meters_to_kilometers <- function(meters) {
   return(kilometers)
 }
 
-# Convert Kilometers to Miles
 #' Convert Kilometers to Miles
 #'
 #' This function converts a given value in kilometers to miles.
@@ -26,7 +24,6 @@ kilometers_to_miles <- function(kilometers) {
   return(miles)
 }
 
-# Convert Miles to Kilometers
 #' Convert Miles to Kilometers
 #'
 #' This function converts a given value in miles to kilometers.
@@ -40,7 +37,6 @@ miles_to_kilometers <- function(miles) {
   return(kilometers)
 }
 
-# Convert Celsius to Fahrenheit
 #' Convert Celsius to Fahrenheit
 #'
 #' This function converts a given temperature in Celsius to Fahrenheit.
@@ -54,7 +50,6 @@ celsius_to_fahrenheit <- function(celsius) {
   return(fahrenheit)
 }
 
-# Convert Fahrenheit to Celsius
 #' Convert Fahrenheit to Celsius
 #'
 #' This function converts a given temperature in Fahrenheit to Celsius.
@@ -68,7 +63,6 @@ fahrenheit_to_celsius <- function(fahrenheit) {
   return(celsius)
 }
 
-# Convert Grams to Kilograms
 #' Convert Grams to Kilograms
 #'
 #' This function converts a given weight in grams to kilograms.
@@ -82,7 +76,6 @@ grams_to_kilograms <- function(grams) {
   return(kilograms)
 }
 
-# Convert Kilograms to Grams
 #' Convert Kilograms to Grams
 #'
 #' This function converts a given weight in kilograms to grams.
@@ -96,7 +89,6 @@ kilograms_to_grams <- function(kilograms) {
   return(grams)
 }
 
-# Convert Liters to Milliliters
 #' Convert Liters to Milliliters
 #'
 #' This function converts a given volume in liters to milliliters.
@@ -110,7 +102,6 @@ liters_to_milliliters <- function(liters) {
   return(milliliters)
 }
 
-# Convert Milliliters to Liters
 #' Convert Milliliters to Liters
 #'
 #' This function converts a given volume in milliliters to liters.
@@ -124,7 +115,6 @@ milliliters_to_liters <- function(milliliters) {
   return(liters)
 }
 
-# Convert Inches to Centimeters
 #' Convert Inches to Centimeters
 #'
 #' This function converts a given length in inches to centimeters.
@@ -138,7 +128,6 @@ inches_to_centimeters <- function(inches) {
   return(centimeters)
 }
 
-# Convert Centimeters to Inches
 #' Convert Centimeters to Inches
 #'
 #' This function converts a given length in centimeters to inches.
