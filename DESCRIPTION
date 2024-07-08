@@ -6,7 +6,6 @@ Author@R: person ("Diana", "Korchmar", , "korchmann@gmail.com", role = c("aut", 
 Description: This package provides functions to convert various units such as meters to kilometers, Celsius to Fahrenheit, and more. 
     It aims to offer simple and commonly used unit conversions to assist users in their data analysis tasks.
 License: MIT
-License: MIT
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.3.2
