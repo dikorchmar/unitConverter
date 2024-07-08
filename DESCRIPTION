@@ -3,8 +3,9 @@ Type: Package
 Title: A Simple Unit Conversion Package
 Version: 0.1.0
 Author@R: person ("Diana", "Korchmar", , "korchmann@gmail.com", role = c("aut", "cre"))
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Description: This package provides functions to convert various units such as meters to kilometers, Celsius to Fahrenheit, and more. 
+    It aims to offer simple and commonly used unit conversions to assist users in their data analysis tasks.
+License: MIT
 License: MIT
 Encoding: UTF-8
 LazyData: true
